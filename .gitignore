@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code and Visual Studio folders
+.vscode/
+.vs/
+
+# Environment variables and virtual environments
+.env
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
